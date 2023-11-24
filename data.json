@@ -1,0 +1,108 @@
+{
+    "cars": [
+        {
+            "regNumber": "",
+            "categoryOfVehicle": "",
+            "make": "",
+            "model": "",
+            "fuelType": "",
+            "pricePerDay": "",
+            "carPhoto": ""
+        },
+        {
+            "regNumber": "PJ72UFR",
+            "categoryOfVehicle": "Small car",
+            "make": "Volkswagen",
+            "model": "Golf 1.0 TSI Life 5dr",
+            "fuelType": "Petrol",
+            "pricePerDay": "£25 / day",
+            "carPhoto": "https://assets.heycar.co.uk/image/upload/t_with-stock-placeholder/$aspratio_1.333/t_fit-to-aspect-ratio-blur,f_auto,q_auto,w_800/application_assets/vehicles/pictures/7848417d4453e4793679bcf25970928c/8671eede10adfcc42488659cebb0a64f.webp"
+        },
+        {
+            "regNumber": "RK83VGS",
+            "categoryOfVehicle": "Small car",
+            "make": "Audi",
+            "model": "TT 40 TFSI Sport 2dr S Tronic",
+            "fuelType": "Petrol",
+            "pricePerDay": "£25 / day",
+            "carPhoto": "https://assets.heycar.co.uk/image/upload/t_with-stock-placeholder/$aspratio_1.333/t_fit-to-aspect-ratio-blur,f_auto,q_auto,w_800/application_assets/vehicles/pictures/1c30c9e0c0e16a519f7b038718de2677/5713b2798045df35e348312977eabc6c.webp"
+        },
+        {
+            "regNumber": "SL94WHT",
+            "categoryOfVehicle": "Small car",
+            "make": "Audi",
+            "model": "A3 35 TFSI Sport 2dr",
+            "fuelType": "Petrol",
+            "pricePerDay": "£25 / day",
+            "carPhoto": "https://assets.heycar.co.uk/image/upload/t_with-stock-placeholder/$aspratio_1.333/t_fit-to-aspect-ratio-blur,f_auto,q_auto,w_800/application_assets/vehicles/pictures/e8023c33dafc8952e1eea9a5b5f1f248/d691f15a2b5f99cddc47f1a45e754130.webp"
+        },
+        {
+            "regNumber": "FP70UXS",
+            "categoryOfVehicle": "Estate car",
+            "make": "SEAT",
+            "model": "Leon 1.5 TSI EVO SE Dynamic 5dr",
+            "fuelType": "Petrol",
+            "pricePerDay": "£35 / day",
+            "carPhoto": "https://assets.heycar.co.uk/image/upload/t_with-stock-placeholder/$aspratio_1.333/t_fit-to-aspect-ratio-blur,f_auto,q_auto,w_800/application_assets/vehicles/pictures/f397d356c1a9933325ca2883033154ba/8d86304b670c75195fc1d0fb31c3835a.webp"
+        },
+        {
+            "regNumber": "TM05XIU",
+            "categoryOfVehicle": "Estate car",
+            "make": "Skoda",
+            "model": "Octavia 1.0 TSI SE First Edition 5dr",
+            "fuelType": "Petrol",
+            "pricePerDay": "£35 / day",
+            "carPhoto": "https://assets.heycar.co.uk/image/upload/t_with-stock-placeholder/$aspratio_1.333/t_fit-to-aspect-ratio-blur,f_auto,q_auto,w_800/application_assets/vehicles/pictures/bfae9c2d175314e65d0a6b6e0c4b399a/4f9b264e1a566d292dcdcce11227c355.webp"
+        },
+        {
+            "regNumber": "UN16ZOV",
+            "categoryOfVehicle": "Estate car",
+            "make": "Skoda",
+            "model": "Superb 2.0 TDI CR SE Technology 5dr",
+            "fuelType": "Diesel",
+            "pricePerDay": "£35 / day",
+            "carPhoto": "https://assets.heycar.co.uk/image/upload/t_with-stock-placeholder/$aspratio_1.333/t_fit-to-aspect-ratio-blur,f_auto,q_auto,w_800/application_assets/vehicles/pictures/bf27d191fbfe2e622a43fff965758106/9108c69231ed749d31b03447b77c2dff.webp"
+        },
+        {
+            "regNumber": "GQ81SYT",
+            "categoryOfVehicle": "Van",
+            "make": "RENAULT",
+            "model": "TRAFIC",
+            "fuelType": "Diesel",
+            "pricePerDay": "£50 / day",
+            "carPhoto": "https://static.europcar.com/carvisuals/450x300/49919_GWY_R.png?app=1.0.0"
+        },
+        {
+            "regNumber": "HR92TZU",
+            "categoryOfVehicle": "Van",
+            "make": "CITROEN",
+            "model": "BERLINGO",
+            "fuelType": "Diesel",
+            "pricePerDay": "£50 / day",
+            "carPhoto": "https://static.europcar.com/carvisuals/450x300/46625_GWY_R.png?app=1.0.0"
+        },
+        {
+            "regNumber": "IS03UAV",
+            "categoryOfVehicle": "Van",
+            "make": "VW",
+            "model": "CRAFTER",
+            "fuelType": "Diesel",
+            "pricePerDay": "£50 / day",
+            "carPhoto": "https://static.europcar.com/carvisuals/450x300/47686_GWY_R.png?app=1.0.0"
+        }
+    ],
+    "bookings": [
+        {
+            "regNumber": "PJ72UFR",
+            "rentedBy" : "Jackw3434",
+            "bookedFrom" : "1700513018",
+            "bookedUntil" : "1700945018"
+        },
+        {
+            "regNumber": "",
+            "rentedBy" : "",
+            "bookedFrom" : "",
+            "bookedUntil" : ""
+        }
+    ]
+}
